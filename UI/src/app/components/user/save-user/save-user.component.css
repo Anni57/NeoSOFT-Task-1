@@ -1,0 +1,12 @@
+.userFields {
+  margin-top: 2%;
+  display: flex;
+  column-gap: 15%;
+}
+
+.bottomActions {
+  margin-top: 3%;
+  display: flex;
+  column-gap: 2%;
+  justify-content: right;
+}

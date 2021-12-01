@@ -1,0 +1,6 @@
+.bottomActions {
+  margin-top: 3%;
+  display: flex;
+  column-gap: 2%;
+  justify-content: center;
+}
